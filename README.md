@@ -8,7 +8,7 @@
   <img align="center" alt="Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-  <img align="right" alt="Pic" height="100" style="border-radius:40px;" src="https://lh3.googleusercontent.com/a-/AOh14Gj1nUKyGwWu-zbVbvC6Jjd1yvKGJm57fo29Py90wA=s96-c-rg-br100">
+  <img align="right" alt="Pic" height="100" style="border-radius:40px;" src="https://cdn.discordapp.com/attachments/928766170390216786/928782852869476422/Hi.gif">
 </div>
   
 ##

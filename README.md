@@ -11,7 +11,7 @@
   <img align="right" alt="Pic" height="100" style="border-radius:40px;" src="https://lh3.googleusercontent.com/a-/AOh14Gj1nUKyGwWu-zbVbvC6Jjd1yvKGJm57fo29Py90wA=s96-c-rg-br100">
 </div>
   
-    ##
+##
  
 <div> 
   <a href="https://instagram.com/vitor_walcker" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

@@ -1,4 +1,10 @@
 ## Hi, I'm Vitor Walcker, android developer!
+
+# What am I lookink to collaborate on?
+
+Projects with great social impact with an outstandig UX/UI working **remotely**.
+
+
 <div align="center">
   <a href="https://github.com/vitor0321">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitor0321&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

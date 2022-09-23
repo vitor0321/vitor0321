@@ -1,8 +1,7 @@
-## Hi, I'm Vitor Walcker, android developer!
+# Hi, I'm Vitor Walcker, android developer!
 
-# What am I lookink to collaborate on?
-
-Projects with great social impact with an outstandig UX/UI working **remotely**.
+## What am I lookink to collaborate on?
+###Projects with great social impact with an outstandig UX/UI working **remotely**.
 
 
 <div align="center">

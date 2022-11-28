@@ -28,6 +28,8 @@ Projects with great social impact with an outstandig UX/UI working **remotely**.
   ![Snake animation](https://github.com/vitor0321/vitor0321/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="vitorwalcker" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/vitorwalcker?trk=profile-badge">Vitor Walcker</a></div>
+              
 
 
 

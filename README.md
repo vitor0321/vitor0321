@@ -1,8 +1,9 @@
-# Hi, I'm Vitor Walcker, android developer!
+# Hi, I'm Vitor Walcker, android developer!                
+<img align="center" alt="Stone" height="60" width="120" src="https://user-images.githubusercontent.com/60984009/227589704-37bbf382-7afb-4cb8-93e0-f7ecc3e4200e.png">
 
-What am I lookink to collaborate on?
+What am I looking to collaborate on?
 
-Projects with great social impact with an outstandig UX/UI working **remotely**.
+Projects with great social impact and with an outstandig UX/UI working **remotely**.
 
 
 <div align="center">
@@ -12,11 +13,13 @@ Projects with great social impact with an outstandig UX/UI working **remotely**.
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
+  <img align="center" alt="Compose" height="40" width="40" src="https://user-images.githubusercontent.com/60984009/227588064-adf468c6-4cb5-466f-845c-70727674e513.png">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Kotlin" height="30" width="40" src="https://user-images.githubusercontent.com/60984009/227588973-d80009dc-d5ab-4c79-a6cd-5049c44a9c78.png">
   <img align="right" alt="Pic" height="100" style="border-radius:40px;" src="https://cdn.discordapp.com/attachments/928766170390216786/928782852869476422/Hi.gif">
 </div>
-  
+
 ##
  
 <div> 

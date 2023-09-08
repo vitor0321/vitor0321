@@ -12,12 +12,14 @@ Projects with great social impact and with an outstandig UX/UI working **remotel
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor0321&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
-  <img align="center" alt="Compose" height="40" width="40" src="https://user-images.githubusercontent.com/60984009/227588064-adf468c6-4cb5-466f-845c-70727674e513.png">
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Kotlin" height="30" width="40" src="https://user-images.githubusercontent.com/60984009/227588973-d80009dc-d5ab-4c79-a6cd-5049c44a9c78.png">
-  <img align="right" alt="Pic" height="100" style="border-radius:40px;" src="https://cdn.discordapp.com/attachments/928766170390216786/928782852869476422/Hi.gif">
+  <img align="center" alt="Android&iOS" height="60" width="60" src="http://android.mobile-review.com/image/2015/04/android_ios.png">
+    <img align="center" alt="KMP" height="30" width="40" src="https://user-images.githubusercontent.com/60984009/227588973-d80009dc-d5ab-4c79-a6cd-5049c44a9c78.png">
+    <img align="right" alt="Kotlin" height="100" style="border-radius:40px;" src="https://cdn.discordapp.com/attachments/928766170390216786/928782852869476422/Hi.gif">
+    <img align="center" alt="Compose" height="40" width="40" src="https://user-images.githubusercontent.com/60984009/227588064-adf468c6-4cb5-466f-845c-70727674e513.png">
+    <img align="center" alt="Swift" height="40" width="40" src="https://brandslogos.com/wp-content/uploads/thumbs/swift-logo-vector.svg">
+    <img align="center" alt="UiKit" height="35" width="30" src="https://seeklogo.com/images/U/uikit-logo-8CE34FE030-seeklogo.com.png">
+    <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+    <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
 ##

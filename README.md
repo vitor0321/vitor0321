@@ -29,7 +29,6 @@ Projects with great social impact and with an outstandig UX/UI working **remotel
  <a href="https://discord.gg/DbbCZyrU" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:vitor0321@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vitorwalcker/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/vitor0321/vitor0321/blob/output/github-contribution-grid-snake.svg)
+
  
 </div>

@@ -1,4 +1,4 @@
-# Hi, I'm Vitor Walcker, android developer!                
+# Hi, I'm Vitor Walcker, android and iOS developer!                
 <img align="center" alt="Stone" height="60" width="120" src="https://user-images.githubusercontent.com/60984009/227589704-37bbf382-7afb-4cb8-93e0-f7ecc3e4200e.png">
 
 What am I looking to collaborate on?

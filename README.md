@@ -2,12 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=80e5ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Vitor+Walcker;I'm+an+Android+and+iOS+developer;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vitor-walcker&bg_color=0d1117&color=33ccff&line=ff0000&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vitor0321&bg_color=0d1117&color=33ccff&line=ff0000&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-  <a href="https://github.com/vitor-walcker">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vitor-walcker&show_icons=true&count_private=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&icon_color=33cc33&text_color=99ccff&bg_color=0d1117&title_color=008fb3"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-walcker&layout=compact&hide_border=true&title_color=008fb3&text_color=99ccff&bg_color=0d1117" />
+  <a href="https://github.com/vitor0321">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vitor0321&show_icons=true&count_private=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&icon_color=33cc33&text_color=99ccff&bg_color=0d1117&title_color=008fb3"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor0321&layout=compact&hide_border=true&title_color=008fb3&text_color=99ccff&bg_color=0d1117" />
 </div>
     
 <div style="display: inline_block", align="center"><br>
@@ -30,9 +30,3 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ccff&height=120&section=footer"/>
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{vitor-walcker}/count.svg" /></p> 
-<br>
-</div>

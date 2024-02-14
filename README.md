@@ -11,7 +11,7 @@
 </div>
     
 <div style="display: inline_block", align="center"><br>
-  <img align="center" alt="Android&iOS" height="60" width="60" src="http://android.mobile-review.com/image/2015/04/android_ios.png">
+  <img align="center" alt="Android&iOS" height="60" width="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD6tpmsrcrt_RLJwwwkscKVuJS9nbxKhDa-g&usqp=CAU">
     <img align="center" alt="KMP" height="30" width="40" src="https://user-images.githubusercontent.com/60984009/227588973-d80009dc-d5ab-4c79-a6cd-5049c44a9c78.png">
     <img align="right" alt="Kotlin" height="100" style="border-radius:40px;" src="https://cdn.discordapp.com/attachments/928766170390216786/928782852869476422/Hi.gif">
     <img align="center" alt="Compose" height="40" width="40" src="https://user-images.githubusercontent.com/60984009/227588064-adf468c6-4cb5-466f-845c-70727674e513.png">
@@ -20,6 +20,7 @@
     <img align="center" alt="SwiftUi" height="60" width="60" src="https://images.ctfassets.net/ooa29xqb8tix/6MFFWO1k38yxTrLKRZ26e8/2c07fa6c2c4653bfae00dd87625d6e56/swift-logo.png">
     <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
     <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="C#" height="30" width="40" src="https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png">
 </div>
  
  <div align="center"> 

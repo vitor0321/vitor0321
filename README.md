@@ -16,11 +16,9 @@
     <img align="right" alt="Kotlin" height="100" style="border-radius:40px;" src="https://cdn.discordapp.com/attachments/928766170390216786/928782852869476422/Hi.gif">
     <img align="center" alt="Compose" height="40" width="40" src="https://user-images.githubusercontent.com/60984009/227588064-adf468c6-4cb5-466f-845c-70727674e513.png">
     <img align="center" alt="Swift" height="40" width="40" src="https://brandslogos.com/wp-content/uploads/thumbs/swift-logo-vector.svg">
-    <img align="center" alt="UiKit" height="35" width="30" src="https://seeklogo.com/images/U/uikit-logo-8CE34FE030-seeklogo.com.png">
     <img align="center" alt="SwiftUi" height="60" width="60" src="https://images.ctfassets.net/ooa29xqb8tix/6MFFWO1k38yxTrLKRZ26e8/2c07fa6c2c4653bfae00dd87625d6e56/swift-logo.png">
     <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
     <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="C#" height="30" width="40" src="https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png">
 </div>
  
  <div align="center"> 
